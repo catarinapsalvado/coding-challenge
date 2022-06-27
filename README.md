@@ -86,3 +86,10 @@ If anything needs clarifying, feel free to ask! You won't be judged negatively.
 It's a great thing to ask for clarification when needed.
 
 Reach me at `shane#1096` on Discord.
+
+## Catarina's notes 
+
+- I did the challenge in 2 hours like it was said. I couldn't manage to make the app and the view work in that time, and I have some troubles in the backend API routes. 
+- First I converted the csv file to json (I am more confortable to build an API with that format) with a package. Then I created the model for the influencers to build the api and the endpoints so i could possibily call it with an axios to the front end 
+- I tried to make the routes with Typescript but had lots of troubles when making promises and using Typescript. I made in JS instead so I could try to advance in the project. 
+- If I had more time, when the backend issue would be solved, I would try to call the API to the frontend, create a view to show the influencers in the required order. I would try to use the sort() method. I would also style the page, with css, so it would be easy to see and pretty.
